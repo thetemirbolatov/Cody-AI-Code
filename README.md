@@ -218,14 +218,14 @@ Cody работает с любой моделью, доступной чере�
 
 Proprietary. Все права защищены.
 
-Copyright © 2026 thetemirbolatov / IT Студия
+Copyright © 2026 thetemirbolatov / IT Студия MIRAJE X
 
 ---
 
 ## Автор
 
 **thetemirbolatov**  
-IT Студия 2026
+IT Студия MIRAJE X 2026
 
 - GitHub: [github.com/thetemirbolatov](https://github.com/thetemirbolatov)
 
