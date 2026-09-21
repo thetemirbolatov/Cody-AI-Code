@@ -1,9 +1,9 @@
 # Cody AI Agent
 
+![Cody AI](datas/logo.ico)
+
 **Автономный AI-агент-программист для терминала.**  
 Работает через **Timeweb Cloud** — без VPN, без зарубежных карт, без блокировок.
-
-![Cody AI](datas/logo.ico)
 
 ---
 
